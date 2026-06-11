@@ -1,5 +1,3 @@
-# AI-Health-Assistant-Chatbot
-
 # Gradio Health Chatbot (phi-1.5)
 
 > An early exploration into deploying open-source LLMs locally — a Gradio interface wrapping Microsoft's **phi-1.5** for general Q&A, framed as a lightweight health assistant.
